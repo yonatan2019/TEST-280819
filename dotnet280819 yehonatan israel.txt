@@ -1,0 +1,52 @@
+מבחן WPF
+
+חלק א 
+
+1-ו
+
+2-א
+
+3-ה
+
+4-
+Slider => TextBlock (one way/to source . two way)
+TextBlock => Slider (one way/to source . two way)
+TextBlock => TextBlock (one way/to source/one time . two way)
+
+5-=> grid => warpPanel => stackPanel => dockpanel
+
+6-א.ב.ג
+
+7-ב.ד
+
+8-ד
+
+9-ו
+
+10-א.ג.ד
+
+11-ה
+
+12-כל התשובות נכונות חוץ מ (ח) אני לא חושב לסמן את זה
+
+13-ב
+
+14-
+TextBlock => slider - לא צריך 
+Button => textbox - one way
+textBlock => textBlock - לא צריך 
+window => textbox - one way
+
+15-ה
+
+16-ד.ב.ב.ב.ב.ב.ב.ב.ב.ב
+
+17-א.ג
+
+18-א.ג.ה
+
+19-ב.ג
+
+20-א.ב.ג
+
+שאלה בונוס - א.ב.ג.ד.ה.ו.ז.ח.ט.י.כ.ל.מ.נ.ס.ע.פ.צ.ק.ר.ש.ת.
